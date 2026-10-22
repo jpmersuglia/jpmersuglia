@@ -48,7 +48,53 @@ I’m a software developer passionate about building modern, useful, and scalabl
 
 ## 🌐 Let's Connect
 - GitHub: [@jpmersuglia](https://github.com/jpmersuglia)
-- LinkedIn: [Profile](https://linkedin.com/in/jpmersuglia)
+- LinkedIn: [Juan Pablo Mersuglia](https://linkedin.com/in/jpmersuglia)
+
+## 🎮 Open to Collaboration
+
+I’m currently building and improving two public game projects, and I’d love to collaborate with developers who enjoy gameplay systems, UI/UX, balancing, or project architecture.
+
+### 1) NarcoOS
+A game project focused on a unique gameplay loop and systems design.
+
+- Repository: [NarcoOS](https://github.com/jpmersuglia/NarcoOS)
+
+### 2) Incremental Tycoon Companies Sim
+An incremental business simulation game where players grow companies and optimize production, strategy, and progression.
+
+- Repository: [Incremental-Tycoon-Companies-Sim](https://github.com/jpmersuglia/Incremental-Tycoon-Companies-Sim)
+
+If you’re interested in contributing, feel free to explore either project, open an issue, suggest improvements, or submit a pull request.
+
+### 🤝 How to Collaborate
+
+1. Fork the repository you want to contribute to.
+2. Clone your fork locally.
+3. Create a new branch for your feature or fix:
+   ```bash
+   git checkout -b feature/my-improvement
+   ```
+4. Install dependencies and run the project locally.
+5. Make your changes and test them carefully.
+6. Commit with a clear message:
+7. Push your branch:
+  ```bash
+  git push origin feature/my-improvement
+  ```
+
+8. Open a Pull Request and describe the improvement clearly.
+
+## 💡 Ideas for Contributions
+
+    Gameplay mechanics
+    UI and visual polish
+    Bug fixes
+    Performance improvements
+    Balancing and progression tuning
+    Code refactoring and architecture cleanup
+
+If you enjoy game development and want to help build something fun and experimental, I’d be happy to review contributions and collaborate.
+
 
 ## 📊 GitHub Stats
 
