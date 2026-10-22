@@ -77,10 +77,14 @@ If you’re interested in contributing, feel free to explore either project, ope
 4. Install dependencies and run the project locally.
 5. Make your changes and test them carefully.
 6. Commit with a clear message:
+   ```bash
+   git add .
+   git commit -m "Add new gameplay system / improve UI / fix bug"
+   ```
 7. Push your branch:
-  ```bash
-  git push origin feature/my-improvement
-  ```
+     ```bash
+     git push origin feature/my-improvement
+     ```
 
 8. Open a Pull Request and describe the improvement clearly.
 
