@@ -1,4 +1,4 @@
-# Hi, I'm Juan 👋
+# Hi, I'm Juan Pablo 👋
 
 I’m a software developer passionate about building modern, useful, and scalable digital solutions. I enjoy working with web technologies, solving real-world problems, and creating products that are both functional and visually appealing.
 
