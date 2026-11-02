@@ -42,9 +42,41 @@ I’m a software developer passionate about building modern, useful, and scalabl
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📌 Currently
-- Building modern web applications with a strong focus on usability
-- Improving my skills in frontend/backend development
-- Exploring new tools, frameworks, and best practices
+- Building data pipelines and AI-powered assistants for real business operations
+- Deepening my knowledge of lakehouse architectures (Databricks, Medallion)
+- Developing full-stack applications with a strong focus on usability
+
+## 📊 Data Analysis & ETL
+
+I turn raw operational data into decisions. At **Lo del Viejo**, I design and run the data layer behind a real business: from collecting and cleaning data to building the indicators that drive day-to-day management.
+
+- 🔄 **ETL pipelines in Python**, developed in Jupyter Notebook and Google Colab: extracting, cleaning, transforming and loading operational data
+- 🗄️ **Relational and non-relational databases** (MySQL, MongoDB), plus hands-on experience with **data lakes**, and a working knowledge of the **Medallion architecture** (bronze / silver / gold)
+- 📈 **KPIs and dashboards** to track results, spot savings opportunities and measure the impact of every improvement
+- 🧮 **Advanced Excel & Google Sheets** for reporting and data automation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 🤖 AI Integration
+
+I integrate large language models into real workflows through APIs, so they work with a company's own tools and data instead of living in a chat window.
+
+- 🔌 **LLM integration via API** with the **Google AI Studio API** and **GPT**
+- 🧠 **MCP (Model Context Protocol) servers** powering AI assistants for **purchasing** and **sales** at Lo del Viejo
+- ⚙️ **Process automation**: finding where AI can save time and cost, then building and measuring the solution end to end (backend, data and infrastructure)
+- 💬 Daily use of **Claude** and generative AI to design, build and ship software faster
+- 🗣️ I enjoy explaining how I think and helping others understand and adopt new technology
+
+![OpenAI](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+> The production code for these systems is private. I'm happy to walk through the architecture and results on a call.
 
 ## 🌐 Let's Connect
 - GitHub: [@jpmersuglia](https://github.com/jpmersuglia)
